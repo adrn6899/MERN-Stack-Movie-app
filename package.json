@@ -1,0 +1,23 @@
+{
+  "name": "mflix",
+  "version": "1.0.0",
+  "description": "MERN Stack Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrn6899/MERN-Stack-Movie-app.git"
+  },
+  "author": "Adrian Pusana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrn6899/MERN-Stack-Movie-app/issues"
+  },
+  "homepage": "https://github.com/adrn6899/MERN-Stack-Movie-app#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.14"
+  }
+}
